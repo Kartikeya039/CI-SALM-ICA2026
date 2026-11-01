@@ -1,0 +1,183 @@
+model,scenario,region,variable,unit,year,value,version
+MESSAGEix-GLOBIOM 2.0-M-R12-NGFS,Below 2?C,World,GDP|PPP|Counterfactual without damage,billion US$2010/yr,2020,115621.009917097,
+MESSAGEix-GLOBIOM 2.0-M-R12-NGFS,Below 2?C,World,GDP|PPP|Counterfactual without damage,billion US$2010/yr,2025,137661.232090423,
+MESSAGEix-GLOBIOM 2.0-M-R12-NGFS,Below 2?C,World,GDP|PPP|Counterfactual without damage,billion US$2010/yr,2030,160734.939859596,
+MESSAGEix-GLOBIOM 2.0-M-R12-NGFS,Below 2?C,World,GDP|PPP|Counterfactual without damage,billion US$2010/yr,2035,184824.264883383,
+MESSAGEix-GLOBIOM 2.0-M-R12-NGFS,Below 2?C,World,GDP|PPP|Counterfactual without damage,billion US$2010/yr,2040,209082.099329557,
+MESSAGEix-GLOBIOM 2.0-M-R12-NGFS,Below 2?C,World,GDP|PPP|Counterfactual without damage,billion US$2010/yr,2045,234601.704622855,
+MESSAGEix-GLOBIOM 2.0-M-R12-NGFS,Below 2?C,World,GDP|PPP|Counterfactual without damage,billion US$2010/yr,2050,261382.113697813,
+MESSAGEix-GLOBIOM 2.0-M-R12-NGFS,Below 2?C,World,GDP|PPP|Counterfactual without damage,billion US$2010/yr,2055,289547.229621876,
+MESSAGEix-GLOBIOM 2.0-M-R12-NGFS,Below 2?C,World,GDP|PPP|Counterfactual without damage,billion US$2010/yr,2060,319643.21859028,
+MESSAGEix-GLOBIOM 2.0-M-R12-NGFS,Below 2?C,World,GDP|PPP|Counterfactual without damage,billion US$2010/yr,2070,384204.504107064,
+MESSAGEix-GLOBIOM 2.0-M-R12-NGFS,Below 2?C,World,GDP|PPP|Counterfactual without damage,billion US$2010/yr,2080,451198.472533519,
+MESSAGEix-GLOBIOM 2.0-M-R12-NGFS,Below 2?C,World,GDP|PPP|Counterfactual without damage,billion US$2010/yr,2090,521295.027767469,
+MESSAGEix-GLOBIOM 2.0-M-R12-NGFS,Below 2?C,World,GDP|PPP|Counterfactual without damage,billion US$2010/yr,2100,595336.021455698,
+MESSAGEix-GLOBIOM 2.0-M-R12-NGFS,Delayed transition,World,GDP|PPP|Counterfactual without damage,billion US$2010/yr,2020,115621.009917097,2.0
+MESSAGEix-GLOBIOM 2.0-M-R12-NGFS,Delayed transition,World,GDP|PPP|Counterfactual without damage,billion US$2010/yr,2025,137661.232090406,2.0
+MESSAGEix-GLOBIOM 2.0-M-R12-NGFS,Delayed transition,World,GDP|PPP|Counterfactual without damage,billion US$2010/yr,2030,161146.279626907,2.0
+MESSAGEix-GLOBIOM 2.0-M-R12-NGFS,Delayed transition,World,GDP|PPP|Counterfactual without damage,billion US$2010/yr,2035,185105.894214375,2.0
+MESSAGEix-GLOBIOM 2.0-M-R12-NGFS,Delayed transition,World,GDP|PPP|Counterfactual without damage,billion US$2010/yr,2040,209245.73597337,2.0
+MESSAGEix-GLOBIOM 2.0-M-R12-NGFS,Delayed transition,World,GDP|PPP|Counterfactual without damage,billion US$2010/yr,2045,234709.38585446,2.0
+MESSAGEix-GLOBIOM 2.0-M-R12-NGFS,Delayed transition,World,GDP|PPP|Counterfactual without damage,billion US$2010/yr,2050,261432.266466088,2.0
+MESSAGEix-GLOBIOM 2.0-M-R12-NGFS,Delayed transition,World,GDP|PPP|Counterfactual without damage,billion US$2010/yr,2055,289563.476238668,2.0
+MESSAGEix-GLOBIOM 2.0-M-R12-NGFS,Delayed transition,World,GDP|PPP|Counterfactual without damage,billion US$2010/yr,2060,319643.566595146,2.0
+MESSAGEix-GLOBIOM 2.0-M-R12-NGFS,Delayed transition,World,GDP|PPP|Counterfactual without damage,billion US$2010/yr,2070,384237.205793,2.0
+MESSAGEix-GLOBIOM 2.0-M-R12-NGFS,Delayed transition,World,GDP|PPP|Counterfactual without damage,billion US$2010/yr,2080,451217.517069882,2.0
+MESSAGEix-GLOBIOM 2.0-M-R12-NGFS,Delayed transition,World,GDP|PPP|Counterfactual without damage,billion US$2010/yr,2090,521304.067820783,2.0
+MESSAGEix-GLOBIOM 2.0-M-R12-NGFS,Delayed transition,World,GDP|PPP|Counterfactual without damage,billion US$2010/yr,2100,595368.287414846,2.0
+MESSAGEix-GLOBIOM 2.0-M-R12-NGFS,Below 2?C,World,Policy Cost|GDP Loss,billion US$2010/yr,2020,0.0,
+MESSAGEix-GLOBIOM 2.0-M-R12-NGFS,Below 2?C,World,Policy Cost|GDP Loss,billion US$2010/yr,2025,0.0,
+MESSAGEix-GLOBIOM 2.0-M-R12-NGFS,Below 2?C,World,Policy Cost|GDP Loss,billion US$2010/yr,2030,290.246987583902,
+MESSAGEix-GLOBIOM 2.0-M-R12-NGFS,Below 2?C,World,Policy Cost|GDP Loss,billion US$2010/yr,2035,545.677358592802,
+MESSAGEix-GLOBIOM 2.0-M-R12-NGFS,Below 2?C,World,Policy Cost|GDP Loss,billion US$2010/yr,2040,783.551419426803,
+MESSAGEix-GLOBIOM 2.0-M-R12-NGFS,Below 2?C,World,Policy Cost|GDP Loss,billion US$2010/yr,2045,990.4430897985,
+MESSAGEix-GLOBIOM 2.0-M-R12-NGFS,Below 2?C,World,Policy Cost|GDP Loss,billion US$2010/yr,2050,1189.4605385309,
+MESSAGEix-GLOBIOM 2.0-M-R12-NGFS,Below 2?C,World,Policy Cost|GDP Loss,billion US$2010/yr,2055,1364.66181025552,
+MESSAGEix-GLOBIOM 2.0-M-R12-NGFS,Below 2?C,World,Policy Cost|GDP Loss,billion US$2010/yr,2060,1557.59969333571,
+MESSAGEix-GLOBIOM 2.0-M-R12-NGFS,Below 2?C,World,Policy Cost|GDP Loss,billion US$2010/yr,2070,2006.37392085383,
+MESSAGEix-GLOBIOM 2.0-M-R12-NGFS,Below 2?C,World,Policy Cost|GDP Loss,billion US$2010/yr,2080,2401.35980355972,
+MESSAGEix-GLOBIOM 2.0-M-R12-NGFS,Below 2?C,World,Policy Cost|GDP Loss,billion US$2010/yr,2090,2427.18125808786,
+MESSAGEix-GLOBIOM 2.0-M-R12-NGFS,Below 2?C,World,Policy Cost|GDP Loss,billion US$2010/yr,2100,2450.01992163295,
+MESSAGEix-GLOBIOM 2.0-M-R12-NGFS,Delayed transition,World,Policy Cost|GDP Loss,billion US$2010/yr,2020,0.0,2.0
+MESSAGEix-GLOBIOM 2.0-M-R12-NGFS,Delayed transition,World,Policy Cost|GDP Loss,billion US$2010/yr,2025,0.0,2.0
+MESSAGEix-GLOBIOM 2.0-M-R12-NGFS,Delayed transition,World,Policy Cost|GDP Loss,billion US$2010/yr,2030,0.0,2.0
+MESSAGEix-GLOBIOM 2.0-M-R12-NGFS,Delayed transition,World,Policy Cost|GDP Loss,billion US$2010/yr,2035,332.206581738486,2.0
+MESSAGEix-GLOBIOM 2.0-M-R12-NGFS,Delayed transition,World,Policy Cost|GDP Loss,billion US$2010/yr,2040,647.444710225478,2.0
+MESSAGEix-GLOBIOM 2.0-M-R12-NGFS,Delayed transition,World,Policy Cost|GDP Loss,billion US$2010/yr,2045,893.674621576589,2.0
+MESSAGEix-GLOBIOM 2.0-M-R12-NGFS,Delayed transition,World,Policy Cost|GDP Loss,billion US$2010/yr,2050,1134.71657953601,2.0
+MESSAGEix-GLOBIOM 2.0-M-R12-NGFS,Delayed transition,World,Policy Cost|GDP Loss,billion US$2010/yr,2055,1334.6539839287,2.0
+MESSAGEix-GLOBIOM 2.0-M-R12-NGFS,Delayed transition,World,Policy Cost|GDP Loss,billion US$2010/yr,2060,1543.2124621094,2.0
+MESSAGEix-GLOBIOM 2.0-M-R12-NGFS,Delayed transition,World,Policy Cost|GDP Loss,billion US$2010/yr,2070,1965.71344194189,2.0
+MESSAGEix-GLOBIOM 2.0-M-R12-NGFS,Delayed transition,World,Policy Cost|GDP Loss,billion US$2010/yr,2080,2373.32940246089,2.0
+MESSAGEix-GLOBIOM 2.0-M-R12-NGFS,Delayed transition,World,Policy Cost|GDP Loss,billion US$2010/yr,2090,2411.28098043229,2.0
+MESSAGEix-GLOBIOM 2.0-M-R12-NGFS,Delayed transition,World,Policy Cost|GDP Loss,billion US$2010/yr,2100,2410.58508458501,2.0
+MESSAGEix-GLOBIOM 2.0-M-R12-NGFS,Below 2?C,World,Price|Carbon,US$2010/t CO2,2020,0.0,
+MESSAGEix-GLOBIOM 2.0-M-R12-NGFS,Below 2?C,World,Price|Carbon,US$2010/t CO2,2025,0.0,
+MESSAGEix-GLOBIOM 2.0-M-R12-NGFS,Below 2?C,World,Price|Carbon,US$2010/t CO2,2030,49.92895016671864,
+MESSAGEix-GLOBIOM 2.0-M-R12-NGFS,Below 2?C,World,Price|Carbon,US$2010/t CO2,2035,54.82740240398467,
+MESSAGEix-GLOBIOM 2.0-M-R12-NGFS,Below 2?C,World,Price|Carbon,US$2010/t CO2,2040,66.42231247751546,
+MESSAGEix-GLOBIOM 2.0-M-R12-NGFS,Below 2?C,World,Price|Carbon,US$2010/t CO2,2045,88.03603456865083,
+MESSAGEix-GLOBIOM 2.0-M-R12-NGFS,Below 2?C,World,Price|Carbon,US$2010/t CO2,2050,112.0247431750156,
+MESSAGEix-GLOBIOM 2.0-M-R12-NGFS,Below 2?C,World,Price|Carbon,US$2010/t CO2,2055,128.5972538603799,
+MESSAGEix-GLOBIOM 2.0-M-R12-NGFS,Below 2?C,World,Price|Carbon,US$2010/t CO2,2060,156.2863147227882,
+MESSAGEix-GLOBIOM 2.0-M-R12-NGFS,Below 2?C,World,Price|Carbon,US$2010/t CO2,2070,251.7522015186518,
+MESSAGEix-GLOBIOM 2.0-M-R12-NGFS,Below 2?C,World,Price|Carbon,US$2010/t CO2,2080,386.5107772648543,
+MESSAGEix-GLOBIOM 2.0-M-R12-NGFS,Below 2?C,World,Price|Carbon,US$2010/t CO2,2090,279.8100906579618,
+MESSAGEix-GLOBIOM 2.0-M-R12-NGFS,Below 2?C,World,Price|Carbon,US$2010/t CO2,2100,259.787695486771,
+MESSAGEix-GLOBIOM 2.0-M-R12-NGFS,Delayed transition,World,Price|Carbon,US$2010/t CO2,2020,0.0,2.0
+MESSAGEix-GLOBIOM 2.0-M-R12-NGFS,Delayed transition,World,Price|Carbon,US$2010/t CO2,2025,0.0,2.0
+MESSAGEix-GLOBIOM 2.0-M-R12-NGFS,Delayed transition,World,Price|Carbon,US$2010/t CO2,2030,2.411232564119606,2.0
+MESSAGEix-GLOBIOM 2.0-M-R12-NGFS,Delayed transition,World,Price|Carbon,US$2010/t CO2,2035,50.87813919961593,2.0
+MESSAGEix-GLOBIOM 2.0-M-R12-NGFS,Delayed transition,World,Price|Carbon,US$2010/t CO2,2040,75.88348790247423,2.0
+MESSAGEix-GLOBIOM 2.0-M-R12-NGFS,Delayed transition,World,Price|Carbon,US$2010/t CO2,2045,85.51166820924367,2.0
+MESSAGEix-GLOBIOM 2.0-M-R12-NGFS,Delayed transition,World,Price|Carbon,US$2010/t CO2,2050,111.0959122590187,2.0
+MESSAGEix-GLOBIOM 2.0-M-R12-NGFS,Delayed transition,World,Price|Carbon,US$2010/t CO2,2055,137.4498480469946,2.0
+MESSAGEix-GLOBIOM 2.0-M-R12-NGFS,Delayed transition,World,Price|Carbon,US$2010/t CO2,2060,164.5564138294373,2.0
+MESSAGEix-GLOBIOM 2.0-M-R12-NGFS,Delayed transition,World,Price|Carbon,US$2010/t CO2,2070,248.1021792914301,2.0
+MESSAGEix-GLOBIOM 2.0-M-R12-NGFS,Delayed transition,World,Price|Carbon,US$2010/t CO2,2080,386.3819801796859,2.0
+MESSAGEix-GLOBIOM 2.0-M-R12-NGFS,Delayed transition,World,Price|Carbon,US$2010/t CO2,2090,296.4887231714221,2.0
+MESSAGEix-GLOBIOM 2.0-M-R12-NGFS,Delayed transition,World,Price|Carbon,US$2010/t CO2,2100,252.3356748469114,2.0
+MESSAGEix-GLOBIOM 2.0-M-R12-NGFS,Below 2?C,World,Emissions|CO2,Mt CO2/yr,2020,44751.0887611507,
+MESSAGEix-GLOBIOM 2.0-M-R12-NGFS,Below 2?C,World,Emissions|CO2,Mt CO2/yr,2025,41555.3468017947,
+MESSAGEix-GLOBIOM 2.0-M-R12-NGFS,Below 2?C,World,Emissions|CO2,Mt CO2/yr,2030,34774.7705364814,
+MESSAGEix-GLOBIOM 2.0-M-R12-NGFS,Below 2?C,World,Emissions|CO2,Mt CO2/yr,2035,28906.7531274104,
+MESSAGEix-GLOBIOM 2.0-M-R12-NGFS,Below 2?C,World,Emissions|CO2,Mt CO2/yr,2040,23107.3902741655,
+MESSAGEix-GLOBIOM 2.0-M-R12-NGFS,Below 2?C,World,Emissions|CO2,Mt CO2/yr,2045,17540.9767711968,
+MESSAGEix-GLOBIOM 2.0-M-R12-NGFS,Below 2?C,World,Emissions|CO2,Mt CO2/yr,2050,12903.9823807085,
+MESSAGEix-GLOBIOM 2.0-M-R12-NGFS,Below 2?C,World,Emissions|CO2,Mt CO2/yr,2055,9215.97922983758,
+MESSAGEix-GLOBIOM 2.0-M-R12-NGFS,Below 2?C,World,Emissions|CO2,Mt CO2/yr,2060,7196.74782098759,
+MESSAGEix-GLOBIOM 2.0-M-R12-NGFS,Below 2?C,World,Emissions|CO2,Mt CO2/yr,2070,3646.05988136405,
+MESSAGEix-GLOBIOM 2.0-M-R12-NGFS,Below 2?C,World,Emissions|CO2,Mt CO2/yr,2080,568.51730435531,
+MESSAGEix-GLOBIOM 2.0-M-R12-NGFS,Below 2?C,World,Emissions|CO2,Mt CO2/yr,2090,10.3648377153445,
+MESSAGEix-GLOBIOM 2.0-M-R12-NGFS,Below 2?C,World,Emissions|CO2,Mt CO2/yr,2100,7.38571283387273,
+MESSAGEix-GLOBIOM 2.0-M-R12-NGFS,Delayed transition,World,Emissions|CO2,Mt CO2/yr,2020,44751.0887611507,2.0
+MESSAGEix-GLOBIOM 2.0-M-R12-NGFS,Delayed transition,World,Emissions|CO2,Mt CO2/yr,2025,41550.168702658,2.0
+MESSAGEix-GLOBIOM 2.0-M-R12-NGFS,Delayed transition,World,Emissions|CO2,Mt CO2/yr,2030,41368.4941020068,2.0
+MESSAGEix-GLOBIOM 2.0-M-R12-NGFS,Delayed transition,World,Emissions|CO2,Mt CO2/yr,2035,34345.9715256745,2.0
+MESSAGEix-GLOBIOM 2.0-M-R12-NGFS,Delayed transition,World,Emissions|CO2,Mt CO2/yr,2040,27254.6428278098,2.0
+MESSAGEix-GLOBIOM 2.0-M-R12-NGFS,Delayed transition,World,Emissions|CO2,Mt CO2/yr,2045,20650.0327411736,2.0
+MESSAGEix-GLOBIOM 2.0-M-R12-NGFS,Delayed transition,World,Emissions|CO2,Mt CO2/yr,2050,15126.7354974992,2.0
+MESSAGEix-GLOBIOM 2.0-M-R12-NGFS,Delayed transition,World,Emissions|CO2,Mt CO2/yr,2055,10642.3242367077,2.0
+MESSAGEix-GLOBIOM 2.0-M-R12-NGFS,Delayed transition,World,Emissions|CO2,Mt CO2/yr,2060,7882.10217393441,2.0
+MESSAGEix-GLOBIOM 2.0-M-R12-NGFS,Delayed transition,World,Emissions|CO2,Mt CO2/yr,2070,4006.48507097789,2.0
+MESSAGEix-GLOBIOM 2.0-M-R12-NGFS,Delayed transition,World,Emissions|CO2,Mt CO2/yr,2080,788.432924463506,2.0
+MESSAGEix-GLOBIOM 2.0-M-R12-NGFS,Delayed transition,World,Emissions|CO2,Mt CO2/yr,2090,4.15663208036358,2.0
+MESSAGEix-GLOBIOM 2.0-M-R12-NGFS,Delayed transition,World,Emissions|CO2,Mt CO2/yr,2100,2.2233828434305,2.0
+MESSAGEix-GLOBIOM 2.0-M-R12-NGFS,Below 2?C,World,Primary Energy|Coal,EJ/yr,2020,162.572361686753,
+MESSAGEix-GLOBIOM 2.0-M-R12-NGFS,Below 2?C,World,Primary Energy|Coal,EJ/yr,2025,151.811815594268,
+MESSAGEix-GLOBIOM 2.0-M-R12-NGFS,Below 2?C,World,Primary Energy|Coal,EJ/yr,2030,112.260453744739,
+MESSAGEix-GLOBIOM 2.0-M-R12-NGFS,Below 2?C,World,Primary Energy|Coal,EJ/yr,2035,82.2450305102285,
+MESSAGEix-GLOBIOM 2.0-M-R12-NGFS,Below 2?C,World,Primary Energy|Coal,EJ/yr,2040,61.5164154601071,
+MESSAGEix-GLOBIOM 2.0-M-R12-NGFS,Below 2?C,World,Primary Energy|Coal,EJ/yr,2045,45.6964821468253,
+MESSAGEix-GLOBIOM 2.0-M-R12-NGFS,Below 2?C,World,Primary Energy|Coal,EJ/yr,2050,35.034951140057,
+MESSAGEix-GLOBIOM 2.0-M-R12-NGFS,Below 2?C,World,Primary Energy|Coal,EJ/yr,2055,27.4864609977811,
+MESSAGEix-GLOBIOM 2.0-M-R12-NGFS,Below 2?C,World,Primary Energy|Coal,EJ/yr,2060,22.2831229937071,
+MESSAGEix-GLOBIOM 2.0-M-R12-NGFS,Below 2?C,World,Primary Energy|Coal,EJ/yr,2070,14.9146964899969,
+MESSAGEix-GLOBIOM 2.0-M-R12-NGFS,Below 2?C,World,Primary Energy|Coal,EJ/yr,2080,11.1065716725213,
+MESSAGEix-GLOBIOM 2.0-M-R12-NGFS,Below 2?C,World,Primary Energy|Coal,EJ/yr,2090,8.59423512528361,
+MESSAGEix-GLOBIOM 2.0-M-R12-NGFS,Below 2?C,World,Primary Energy|Coal,EJ/yr,2100,6.7400991566383,
+MESSAGEix-GLOBIOM 2.0-M-R12-NGFS,Delayed transition,World,Primary Energy|Coal,EJ/yr,2020,162.572361686753,2.0
+MESSAGEix-GLOBIOM 2.0-M-R12-NGFS,Delayed transition,World,Primary Energy|Coal,EJ/yr,2025,151.768379990884,2.0
+MESSAGEix-GLOBIOM 2.0-M-R12-NGFS,Delayed transition,World,Primary Energy|Coal,EJ/yr,2030,157.441323551307,2.0
+MESSAGEix-GLOBIOM 2.0-M-R12-NGFS,Delayed transition,World,Primary Energy|Coal,EJ/yr,2035,116.647319774891,2.0
+MESSAGEix-GLOBIOM 2.0-M-R12-NGFS,Delayed transition,World,Primary Energy|Coal,EJ/yr,2040,85.4324748927769,2.0
+MESSAGEix-GLOBIOM 2.0-M-R12-NGFS,Delayed transition,World,Primary Energy|Coal,EJ/yr,2045,63.1127387684564,2.0
+MESSAGEix-GLOBIOM 2.0-M-R12-NGFS,Delayed transition,World,Primary Energy|Coal,EJ/yr,2050,47.8675257455363,2.0
+MESSAGEix-GLOBIOM 2.0-M-R12-NGFS,Delayed transition,World,Primary Energy|Coal,EJ/yr,2055,36.8721897657046,2.0
+MESSAGEix-GLOBIOM 2.0-M-R12-NGFS,Delayed transition,World,Primary Energy|Coal,EJ/yr,2060,28.8286001050077,2.0
+MESSAGEix-GLOBIOM 2.0-M-R12-NGFS,Delayed transition,World,Primary Energy|Coal,EJ/yr,2070,17.7914285158212,2.0
+MESSAGEix-GLOBIOM 2.0-M-R12-NGFS,Delayed transition,World,Primary Energy|Coal,EJ/yr,2080,12.3459997470243,2.0
+MESSAGEix-GLOBIOM 2.0-M-R12-NGFS,Delayed transition,World,Primary Energy|Coal,EJ/yr,2090,9.26596474954627,2.0
+MESSAGEix-GLOBIOM 2.0-M-R12-NGFS,Delayed transition,World,Primary Energy|Coal,EJ/yr,2100,7.20374289714364,2.0
+MESSAGEix-GLOBIOM 2.0-M-R12-NGFS,Below 2?C,World,Primary Energy|Oil,EJ/yr,2020,184.548066056156,
+MESSAGEix-GLOBIOM 2.0-M-R12-NGFS,Below 2?C,World,Primary Energy|Oil,EJ/yr,2025,153.96331303952,
+MESSAGEix-GLOBIOM 2.0-M-R12-NGFS,Below 2?C,World,Primary Energy|Oil,EJ/yr,2030,127.47912529393,
+MESSAGEix-GLOBIOM 2.0-M-R12-NGFS,Below 2?C,World,Primary Energy|Oil,EJ/yr,2035,104.409462401554,
+MESSAGEix-GLOBIOM 2.0-M-R12-NGFS,Below 2?C,World,Primary Energy|Oil,EJ/yr,2040,82.8179839975445,
+MESSAGEix-GLOBIOM 2.0-M-R12-NGFS,Below 2?C,World,Primary Energy|Oil,EJ/yr,2045,64.50490800853851,
+MESSAGEix-GLOBIOM 2.0-M-R12-NGFS,Below 2?C,World,Primary Energy|Oil,EJ/yr,2050,50.3529460690862,
+MESSAGEix-GLOBIOM 2.0-M-R12-NGFS,Below 2?C,World,Primary Energy|Oil,EJ/yr,2055,39.3149984850005,
+MESSAGEix-GLOBIOM 2.0-M-R12-NGFS,Below 2?C,World,Primary Energy|Oil,EJ/yr,2060,29.3740222751289,
+MESSAGEix-GLOBIOM 2.0-M-R12-NGFS,Below 2?C,World,Primary Energy|Oil,EJ/yr,2070,15.9498583440801,
+MESSAGEix-GLOBIOM 2.0-M-R12-NGFS,Below 2?C,World,Primary Energy|Oil,EJ/yr,2080,11.8641854453613,
+MESSAGEix-GLOBIOM 2.0-M-R12-NGFS,Below 2?C,World,Primary Energy|Oil,EJ/yr,2090,10.9731213428208,
+MESSAGEix-GLOBIOM 2.0-M-R12-NGFS,Below 2?C,World,Primary Energy|Oil,EJ/yr,2100,10.7915763157888,
+MESSAGEix-GLOBIOM 2.0-M-R12-NGFS,Delayed transition,World,Primary Energy|Oil,EJ/yr,2020,184.548066056156,2.0
+MESSAGEix-GLOBIOM 2.0-M-R12-NGFS,Delayed transition,World,Primary Energy|Oil,EJ/yr,2025,154.030231408244,2.0
+MESSAGEix-GLOBIOM 2.0-M-R12-NGFS,Delayed transition,World,Primary Energy|Oil,EJ/yr,2030,140.745307308931,2.0
+MESSAGEix-GLOBIOM 2.0-M-R12-NGFS,Delayed transition,World,Primary Energy|Oil,EJ/yr,2035,120.035740545459,2.0
+MESSAGEix-GLOBIOM 2.0-M-R12-NGFS,Delayed transition,World,Primary Energy|Oil,EJ/yr,2040,95.5236031279659,2.0
+MESSAGEix-GLOBIOM 2.0-M-R12-NGFS,Delayed transition,World,Primary Energy|Oil,EJ/yr,2045,73.8874673822182,2.0
+MESSAGEix-GLOBIOM 2.0-M-R12-NGFS,Delayed transition,World,Primary Energy|Oil,EJ/yr,2050,57.1777019259864,2.0
+MESSAGEix-GLOBIOM 2.0-M-R12-NGFS,Delayed transition,World,Primary Energy|Oil,EJ/yr,2055,44.5516410186239,2.0
+MESSAGEix-GLOBIOM 2.0-M-R12-NGFS,Delayed transition,World,Primary Energy|Oil,EJ/yr,2060,34.7717198960497,2.0
+MESSAGEix-GLOBIOM 2.0-M-R12-NGFS,Delayed transition,World,Primary Energy|Oil,EJ/yr,2070,19.2735939702481,2.0
+MESSAGEix-GLOBIOM 2.0-M-R12-NGFS,Delayed transition,World,Primary Energy|Oil,EJ/yr,2080,12.6623841044845,2.0
+MESSAGEix-GLOBIOM 2.0-M-R12-NGFS,Delayed transition,World,Primary Energy|Oil,EJ/yr,2090,10.8818248049975,2.0
+MESSAGEix-GLOBIOM 2.0-M-R12-NGFS,Delayed transition,World,Primary Energy|Oil,EJ/yr,2100,10.7364133193134,2.0
+MESSAGEix-GLOBIOM 2.0-M-R12-NGFS,Below 2?C,World,Primary Energy|Gas,EJ/yr,2020,144.612345826642,
+MESSAGEix-GLOBIOM 2.0-M-R12-NGFS,Below 2?C,World,Primary Energy|Gas,EJ/yr,2025,155.538176871142,
+MESSAGEix-GLOBIOM 2.0-M-R12-NGFS,Below 2?C,World,Primary Energy|Gas,EJ/yr,2030,161.93447190662,
+MESSAGEix-GLOBIOM 2.0-M-R12-NGFS,Below 2?C,World,Primary Energy|Gas,EJ/yr,2035,170.198764669156,
+MESSAGEix-GLOBIOM 2.0-M-R12-NGFS,Below 2?C,World,Primary Energy|Gas,EJ/yr,2040,163.6470673948,
+MESSAGEix-GLOBIOM 2.0-M-R12-NGFS,Below 2?C,World,Primary Energy|Gas,EJ/yr,2045,145.598592616666,
+MESSAGEix-GLOBIOM 2.0-M-R12-NGFS,Below 2?C,World,Primary Energy|Gas,EJ/yr,2050,122.649924666578,
+MESSAGEix-GLOBIOM 2.0-M-R12-NGFS,Below 2?C,World,Primary Energy|Gas,EJ/yr,2055,102.879834566491,
+MESSAGEix-GLOBIOM 2.0-M-R12-NGFS,Below 2?C,World,Primary Energy|Gas,EJ/yr,2060,105.172105911759,
+MESSAGEix-GLOBIOM 2.0-M-R12-NGFS,Below 2?C,World,Primary Energy|Gas,EJ/yr,2070,95.5625518075814,
+MESSAGEix-GLOBIOM 2.0-M-R12-NGFS,Below 2?C,World,Primary Energy|Gas,EJ/yr,2080,67.9143414889931,
+MESSAGEix-GLOBIOM 2.0-M-R12-NGFS,Below 2?C,World,Primary Energy|Gas,EJ/yr,2090,72.1620707683996,
+MESSAGEix-GLOBIOM 2.0-M-R12-NGFS,Below 2?C,World,Primary Energy|Gas,EJ/yr,2100,78.1268781683344,
+MESSAGEix-GLOBIOM 2.0-M-R12-NGFS,Delayed transition,World,Primary Energy|Gas,EJ/yr,2020,144.612345826642,2.0
+MESSAGEix-GLOBIOM 2.0-M-R12-NGFS,Delayed transition,World,Primary Energy|Gas,EJ/yr,2025,155.436640676272,2.0
+MESSAGEix-GLOBIOM 2.0-M-R12-NGFS,Delayed transition,World,Primary Energy|Gas,EJ/yr,2030,165.088768965959,2.0
+MESSAGEix-GLOBIOM 2.0-M-R12-NGFS,Delayed transition,World,Primary Energy|Gas,EJ/yr,2035,171.095463812412,2.0
+MESSAGEix-GLOBIOM 2.0-M-R12-NGFS,Delayed transition,World,Primary Energy|Gas,EJ/yr,2040,166.459997934628,2.0
+MESSAGEix-GLOBIOM 2.0-M-R12-NGFS,Delayed transition,World,Primary Energy|Gas,EJ/yr,2045,148.892166190047,2.0
+MESSAGEix-GLOBIOM 2.0-M-R12-NGFS,Delayed transition,World,Primary Energy|Gas,EJ/yr,2050,124.602072808437,2.0
+MESSAGEix-GLOBIOM 2.0-M-R12-NGFS,Delayed transition,World,Primary Energy|Gas,EJ/yr,2055,101.020435663328,2.0
+MESSAGEix-GLOBIOM 2.0-M-R12-NGFS,Delayed transition,World,Primary Energy|Gas,EJ/yr,2060,95.0987661284316,2.0
+MESSAGEix-GLOBIOM 2.0-M-R12-NGFS,Delayed transition,World,Primary Energy|Gas,EJ/yr,2070,92.6664681028726,2.0
+MESSAGEix-GLOBIOM 2.0-M-R12-NGFS,Delayed transition,World,Primary Energy|Gas,EJ/yr,2080,66.8882101514599,2.0
+MESSAGEix-GLOBIOM 2.0-M-R12-NGFS,Delayed transition,World,Primary Energy|Gas,EJ/yr,2090,70.3732582671039,2.0
+MESSAGEix-GLOBIOM 2.0-M-R12-NGFS,Delayed transition,World,Primary Energy|Gas,EJ/yr,2100,76.8801040789359,2.0
