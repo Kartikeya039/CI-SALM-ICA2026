@@ -1,5 +1,7 @@
 # CI-SALM: Climate-Integrated Stochastic ALM
 
+Working paper: Singh, Kartikeya, Climate Transition Risk and the Funding Ratio Tail: A Climate-Integrated Stochastic ALM for a Defined Benefit Pension Fund (November 03, 2026). Available at SSRN: https://ssrn.com/abstract=7688243 or http://dx.doi.org/10.2139/ssrn.7688243
+
 Code for *"A Climate-Integrated Stochastic ALM Approach to Bridge the Pension Climate Solvency Gap"* (Kartikeya Singh, 33rd International Congress of Actuaries, Tokyo 2026).
 
 CI-SALM maps NGFS Phase V transition scenarios into a stochastic asset-liability model of a stylised defined-benefit pension fund. It compares the result with a stationary (traditional) ALM run on the same random shocks.
